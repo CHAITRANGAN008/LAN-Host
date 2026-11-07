@@ -1,0 +1,1 @@
+"""Core module - Contains core application logic and business rules."""

@@ -1,0 +1,1 @@
+"""LAN Host - A portable Windows desktop application for hosting local files over LAN."""
